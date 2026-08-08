@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{F4E2A1BF76B76795}Worlds/STS_Zarichne_Conflict_AAS_Layout1.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass PS5 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}

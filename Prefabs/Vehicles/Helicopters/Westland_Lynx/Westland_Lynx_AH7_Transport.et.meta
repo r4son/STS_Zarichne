@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{769E126B10450CD5}Prefabs/Vehicles/Helicopters/Westland_Lynx/Westland_Lynx_AH7_Transport.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

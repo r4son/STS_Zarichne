@@ -1,0 +1,13 @@
+SCR_GameModeCampaign : "{0F307326459A1395}Prefabs/MP/Modes/GameMode_Base.et" {
+ ID "56B2B479C6B96951"
+ components {
+  SCR_ArsenalManagerComponent "{6120A34EB1E9BBEF}" {
+   m_sLoadoutSaveBlackListHolder "{94F0B1CE7D828CAB}Configs/Arsenal/STS_ArsenalLoadoutSaveBlacklists.conf"
+  }
+  SCR_TimeAndWeatherHandlerComponent "{5CC49B5A1313B84E}" {
+   m_fDayTimeAcceleration 2.4
+   m_fNightTimeAcceleration 2.4
+  }
+ }
+ m_eTestGameFlags SpawnVehicles
+}

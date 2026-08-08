@@ -1,0 +1,5 @@
+MatPBRBasic : "{610803CC3F3D6649}Assets/Props/Fabric/Flags/Data/Flag_1_2_USA.emat" {
+ EmissiveLV 0.396
+ AOScale 0.529
+ BCRMap "{8AFC9E9F65D6A183}Assets/Props/Fabric/Flags/Data/Flag_1_2_USA_BCR.edds"
+}

@@ -1,0 +1,20 @@
+Vehicle : "{71E03C49BCA96E03}Prefabs/Vehicles/Helicopters/Westland_Lynx/Westland_Lynx_Base.et" {
+ ID "57DA6675519A417B"
+ components {
+  SCR_EditableVehicleComponent "{50DEB7C26B5EB312}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    m_EntityBudgetCost {
+     SCR_EntityBudgetValue "{5EDC86E4AF8908B6}" {
+      m_Value 600
+     }
+     SCR_EntityBudgetValue "{5EE71CA1677C234F}" {
+      m_Value 180
+     }
+     SCR_EntityBudgetValue "{62482AC79CD306A7}" {
+      m_Value 3
+     }
+    }
+   }
+  }
+ }
+}

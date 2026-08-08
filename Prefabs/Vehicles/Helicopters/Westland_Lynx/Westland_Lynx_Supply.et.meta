@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{62E9583E42378E60}Prefabs/Vehicles/Helicopters/Westland_Lynx/Westland_Lynx_Supply.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

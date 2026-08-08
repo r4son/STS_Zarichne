@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{C924932F1B87B3CA}Prefabs/Vehicles/Wheeled/Cougar6x6/Cougar6x6_Olive_OPGK.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
