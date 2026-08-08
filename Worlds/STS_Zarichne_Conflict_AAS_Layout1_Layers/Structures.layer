@@ -1,0 +1,5 @@
+SCR_DestructibleBuildingEntity : "{ADDA5472F867C249}Prefabs/Structures/Cultural/Castles/Castle_01_Bridge.et" {
+ coords 2151.734 10.187 2309.606
+ angles 1.919 72.77 0.5
+ scale 1.713
+}
