@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{BFF645A7DA3C4C6C}Prefabs/Vehicles/Wheeled/Cougar6x6/Cougar6x6_Tan_USR.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

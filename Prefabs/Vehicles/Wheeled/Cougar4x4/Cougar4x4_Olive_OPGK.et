@@ -7,6 +7,14 @@ Vehicle : "{772A5979B233C85A}Prefabs/Vehicles/Wheeled/Cougar4x4/Cougar4x4_Tan_OP
      SCR_EntityBudgetValue "{5EE71CA1677C234F}" {
       m_Value 180
      }
+     SCR_EntityBudgetValue "{659B06D93F348ED2}" {
+      m_BudgetType RANK_LIEUTENANT
+      m_Value 4
+     }
+     SCR_EntityBudgetValue "{659B06D933A2E9BA}" {
+      m_BudgetType RANK_LIEUTENANT
+      m_Value 4
+     }
     }
    }
   }

@@ -1,6 +1,14 @@
 SCR_CampaignFactionManager : "{A242612865F2A48E}Prefabs/MP/Managers/Factions/FactionManager_Base.et" {
  ID "50A6CDA4F7C1474A"
  Factions {
+  SCR_CampaignFaction "{50B30C3AF4BFD934}" {
+   m_aEntityCatalogs {
+    SCR_EntityCatalogMultiList "{5C9E82F285C09E24}" : "{09C2ED5F617A0390}Configs/EntityCatalog/USSR/Vehicles_EntityCatalog_USSR.conf" {
+    }
+    SCR_EntityCatalogMultiList "{5C68A0E9AFE1E631}" : "{AC11437A0841F0C1}Configs/EntityCatalog/USSR/STS_InventoryItems_EntityCatalog_USSR.conf" {
+    }
+   }
+  }
   SCR_CampaignFaction "{50B30C3ADB052C80}" {
    m_aEntityCatalogs {
     SCR_EntityCatalogMultiList "{5C9E82F29B327997}" : "{D83A5EFEEF6CBF61}Configs/EntityCatalog/US/Vehicles_EntityCatalog_US.conf" {

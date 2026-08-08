@@ -3,6 +3,7 @@ Vehicle : "{342CF7448414328E}Prefabs/Vehicles/Wheeled/Cougar4x4/Cougar4x4_Tan.et
  components {
   SCR_EditableVehicleComponent "{50DEB7C26B5EB312}" {
    m_UIInfo SCR_EditableVehicleUIInfo "{5298E609432D192D}" {
+    m_sFaction "USSR"
     m_EntityBudgetCost {
      SCR_EntityBudgetValue "{5EE71CA1677C234F}" {
       m_Value 300

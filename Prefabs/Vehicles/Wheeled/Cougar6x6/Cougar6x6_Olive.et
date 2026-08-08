@@ -5,7 +5,11 @@ Vehicle : "{E71A0410A2C6F58D}Prefabs/Vehicles/Wheeled/Cougar6x6/Cougar6x6_Tan.et
    m_UIInfo SCR_EditableVehicleUIInfo "{5298E609432D192D}" {
     m_EntityBudgetCost {
      SCR_EntityBudgetValue "{5EE71CA1677C234F}" {
-      m_Value 180
+      m_Value 300
+     }
+     SCR_EntityBudgetValue "{659B06D9C45BF14D}" {
+      m_BudgetType RANK_PRIVATE
+      m_Value 1
      }
     }
    }

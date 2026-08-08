@@ -7,6 +7,10 @@ Vehicle : "{833AC7ECD038AAD8}Prefabs/Vehicles/Wheeled/Cougar6x6/Cougar6x6_Tan_OP
      SCR_EntityBudgetValue "{5EE71CA1677C234F}" {
       m_Value 180
      }
+     SCR_EntityBudgetValue "{659B06D9C45BF14D}" {
+      m_BudgetType RANK_LIEUTENANT
+      m_Value 4
+     }
     }
    }
   }
