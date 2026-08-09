@@ -142,7 +142,7 @@ SCR_CampaignFactionManager : "{A242612865F2A48E}Prefabs/MP/Managers/Factions/Fac
       }
      }
     }
-    SCR_EntityCatalogMultiList "{5C68A0EEB3F124F9}" : "{38B652747BC64333}Configs/EntityCatalog/US/SCS_InventoryItems_EntityCatalog_US.conf" {
+    SCR_EntityCatalogMultiList "{5C68A0EEB3F124F9}" : "{79A8A3BB246D0829}Configs/EntityCatalog/US/STS_InventoryItems_EntityCatalog_US.conf" {
     }
    }
   }
